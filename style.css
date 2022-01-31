@@ -54,7 +54,9 @@ header {
   border-radius: 30px;
 }
 .input-form input::placeholder {
+  opacity: 0.5;
   color: white;
+  font-family: 'Inter', sans-serif;
 }
 
 .input-form i {
