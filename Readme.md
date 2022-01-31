@@ -14,10 +14,10 @@
 
  
 
-![](C:\Users\Victor\Desktop\Layout-desktop.jpg)
+![Comportamento em Desktop](https://github.com/ayltonc-soares/codelandia-desafio01/blob/main/Layout-desktop.jpg)
 
 
 
 ## Comportamento em Mobile
 
-![](C:\Users\Victor\Desktop\Layout-mobile.JPG)
+![Comportamento em Mobile](https://github.com/ayltonc-soares/codelandia-desafio01/blob/main/Layout-mobile.JPG)
